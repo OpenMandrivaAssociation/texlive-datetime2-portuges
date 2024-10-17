@@ -3,7 +3,7 @@ Version:	48457
 Release:	2
 Summary:	Portuguese language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-portuges
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-portuges
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-portuges.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-portuges.doc.r%{version}.tar.xz
